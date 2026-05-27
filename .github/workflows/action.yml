@@ -2,7 +2,7 @@ name: otameshi
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
   schedule:
     - cron: '34 18 * * *'
